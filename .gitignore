@@ -1,0 +1,8 @@
+.vscode
+.pylintrc
+data
+.ipynb_checkpoints
+__pycache__
+export.csv
+exports/
+saved_data/
