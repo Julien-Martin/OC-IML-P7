@@ -6,3 +6,4 @@ __pycache__
 export.csv
 exports/
 saved_data/
+backups/
