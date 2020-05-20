@@ -1,0 +1,8 @@
+yake
+nltk
+pandas
+numpy
+sklearn
+tqdm
+pickle
+re
